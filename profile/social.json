@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/afia-muntakim/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/afiarodoshe"
+        },
+        {
+            "network" : "email",
+            "href": "afiamuntakim@iut-dhaka.edu"
+        }
+    ]
+}

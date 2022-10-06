@@ -1,0 +1,23 @@
+{
+    "education":[
+        {
+            "title": "January 2018 - April 2022",
+            "cardTitle": "Bachelor of Science, Software Engineering",
+            "cardSubtitle":"Islamic University of Technology, Gazipur, Bangladesh",
+            "icon" : {
+                "src": "images/education/IUT.png"
+            }
+        },
+        {
+            "title": "2015 - 2017",
+            "cardTitle": "College",
+            "cardSubtitle":"Rajshahi College, Rajshahi",
+            "cardDetailedText": "GPA - 5"
+        },
+        {
+            "cardTitle": "School",
+            "cardSubtitle":"Rajshahi University School and College, Rajshahi",
+            "cardDetailedText": "GPA - 5"
+        }
+    ]
+}

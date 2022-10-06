@@ -1,0 +1,48 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer Intern",
+            "subtitle": "KloverCloud BD Ltd.",
+            "workType": "",
+            "workDescription": [
+                "Backend Development",
+                "Software Testing",
+                "Technical Report writing",
+                "Requirement gathering and implementation"
+            ],
+            
+            "dateText": "02.21- 07.21"
+        },
+        {
+            "title": "Junior Executive",
+            "subtitle": "IUT Career and Business Society",
+            "workType": "",
+            "workDescription": [
+                "Committee Member"
+            ],
+            "dateText": "2019-2020"
+        },
+        {
+            "title": "Organizer",
+            "subtitle": "IUT Business Case Competition,Intern",
+            "workType": "",
+            "workDescription": [
+                "Organizer",
+                "Logistics",
+                "Convener"
+            ],
+            "dateText": "2019"
+        },
+        {
+            "title": "Organizer",
+            "subtitle": "ICT Fest",
+            "workType": "",
+            "workDescription": [
+                "Food Committee",
+                "Logistics",
+                "Convener"
+            ],
+            "dateText": "2019"
+        }
+    ]
+}

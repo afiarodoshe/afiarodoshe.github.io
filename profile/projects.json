@@ -1,0 +1,134 @@
+{
+    "projects" : [
+        {
+            "title": "Analyzing Web Application Vulnerability of Educational Institutions in Bangladesh",
+            "bodyText": "This study aims to detect vulnerabilities of the educational websites in Bangladesh and analyze which scanning tool provides more accurate results.",
+            "links": [
+                {
+                    "text": "Paper",
+                    "href": "https://drive.google.com/file/d/1GQqnS_r0Vfd24nFM--oGWJt1ebGl1wFw/view?usp=sharing"
+                }
+            ],
+            "tags" : [
+                "Cyber Security",
+                "Networking",
+                "Research"
+            ]
+        },
+        {
+            "title": "Contrast Enhancement of Low Light Image",
+            "bodyText": "Here we discussed about enhancement of different low light images using Histogram Equalization (HE) and Illumination Adjustment. We wanted to remove the noise of the old images using Histogram Equalization (HE) and Illumination Adjustment.",
+            "links": [
+                {
+                    "text": "Paper",
+                    "href": "https://drive.google.com/file/d/1gP4IxJcV8ZzGy3F7jaEWEfyKrnPsjLUG/view?usp=sharing"
+                }
+            ],
+            "tags" : [
+                "Image Processing",
+                "Machine Learning",
+                "Research"
+            ]
+        },
+        {
+            "title": "Krish-e",
+            "bodyText": "An e-platform for farm mechanisation to improve food security and livelihood.User can make purchases an also sell their Agri-related commodities on this app. This application was build to revove the middleman in the business and provide fresh food to the customer",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/afiarodoshe/krishe"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Android",
+                "Agriculture",
+                "Fresh Food"
+            ]
+        },
+        {
+            "title": "Puran-o",
+            "bodyText": "PURAN-O is an online second hand book selling and buying app. In this application anyone can open an account where he can upload his copy of book to sell . Similarly, if anyone wants to buy any copy , he can just search it using his account.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/afiarodoshe/Puran-o"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Android",
+                "Firebase",
+                "E-com"
+            ]
+        },
+        {
+            "title": "Jontro",
+            "bodyText": "It is an e commerce App named jontro. Here an user can see available items,add items to cart. After adding items, user can go to cart to see the added items and increase or decrease the quantity. In checkout after providing address details. After payment we will a confirmation.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/afiarodoshe/Jontro"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "ReactJS",
+                "E-com"
+            ]
+        },
+        {
+            "title": "Student Database",
+            "bodyText": "This is a backend database application for students. It uses token bases authentication by generating a jwt token for token. It stores details of the the students.We can add,retrive,nodify and delete data from this application.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/afiarodoshe/studentDB"
+                }
+            ],
+            "tags" : [
+                "Database",
+                "Authentication",
+                "Golang",
+                "MongoDB"
+            ]
+        },
+        {
+            "title": "Calculator",
+            "bodyText": "This is an simple calculator app. I made this app in order to practice regression and mutation testing on it. I used jest framework for regression testing and stryker for mutation testing. Ir gives a clear idea of both testing types also gives a reort.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/afiarodoshe/Calculator"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "Testing",
+                "Mutation Testing"
+            ]
+        },
+        {
+            "title": "UI/UX",
+            "bodyText": "Some practice UI mockup.I used Figma to make this prototypes. In the messenger ui we have to use fingerprint to login then we can see the messeges. For Animal DB it shoes the information of animals. Then I tried to make thi Ui of Foodpanda app.",
+            "links": [
+                {
+                    "text": "Messenger",
+                    "href": "https://www.figma.com/proto/q6qqLG6xSyCkjo7svGllpb/Lab2_170042029?scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A10&node-id=2%3A10"
+                },
+                {
+                    "text": "Animal DB",
+                    "href": "https://www.figma.com/proto/vwsz625c9LMtQC864PYtTz/Lab-4?node-id=5%3A245&scaling=min-zoom&page-id=5%3A53&starting-point-node-id=5%3A60"
+                },
+                {
+                    "text": "Foodpanda",
+                    "href": "https://www.figma.com/proto/09zydG15Me9L38NElMfW7d/Labfinal_170042029?scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A46&node-id=2%3A46"
+                }
+            ],
+            "tags" : [
+                "Figma",
+                "UI/UX"
+            ]
+        }
+    ]
+}
